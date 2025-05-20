@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from __future__ import annotations
 from .rows import Rows
 from .columns import Columns

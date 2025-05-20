@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from abc import ABC
 from .runner.analysis_results import Result
 

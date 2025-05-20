@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from ..IR.intermediate_representations import IntermediateRepresentations
 
 TEST_RES_PATH = "./tests/resources/"

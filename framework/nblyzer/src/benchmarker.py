@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from collections import defaultdict
 from sre_parse import fix_flags
 from nblyzer import NBlyzer

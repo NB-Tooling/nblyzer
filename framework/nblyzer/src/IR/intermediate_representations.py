@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from simple_cfg.cfg_factory import get_cfg
 import gast as ast
 import ast as ast_for_cfg

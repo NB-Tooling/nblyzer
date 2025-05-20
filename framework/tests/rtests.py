@@ -1,5 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
 from sre_parse import fix_flags
 from nblyzer import NBlyzer
 from argparse import ArgumentParser

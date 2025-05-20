@@ -1,6 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
-
 import * as vscode from 'vscode';
 import {Events} from './events';
 import { ServerHandler } from './server_handler';

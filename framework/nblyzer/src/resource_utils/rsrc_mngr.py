@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from azure.storage.blob import (
     BlobServiceClient,
     BlobClient,

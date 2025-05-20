@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 DATA_LEAK = "Data Leak Analysis"
 STALE = "Stale Cells Analysis"
 FRESH = "Fresh Cells Analysis"

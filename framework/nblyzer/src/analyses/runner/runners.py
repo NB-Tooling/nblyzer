@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from copy import deepcopy
 from unittest import result
 from ..abs_states.abs_state import AbstractState

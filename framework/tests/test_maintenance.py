@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 import unittest
 import json
 from nblyzer.src.analyses.dataleak_analysis import DataLeakAnalysis

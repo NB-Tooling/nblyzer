@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from __future__ import annotations
 import ast
 from simple_cfg.cfg_nodes import Node, AssignmentNode

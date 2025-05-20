@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from collections import defaultdict
 from simple_cfg.cfg_nodes import AssignmentCallNode, AssignmentNode, BBorBInode, RestoreNode
 from .abs_states.dataleak_abs_state import (

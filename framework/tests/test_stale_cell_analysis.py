@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 import unittest
 from nblyzer.src.analyses.stale_cell_analysis import StaleCellAnalysis
 from nblyzer.src.IR.intermediate_representations import IntermediateRepresentations

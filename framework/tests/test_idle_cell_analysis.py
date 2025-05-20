@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 import unittest
 from nblyzer.src.analyses.idle_cell_analysis import IdleCellAnalysis
 from nblyzer.src.resource_utils.utils import load_notebook, TEST_RES_PATH

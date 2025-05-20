@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from argparse import ArgumentParser
 
 from .nblyzer import NBLyzer

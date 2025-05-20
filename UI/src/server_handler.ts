@@ -1,6 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
-
 import * as net from 'net';
 import * as vscode from 'vscode';
 

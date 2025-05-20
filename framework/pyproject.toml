@@ -2,11 +2,10 @@
 requires = ["setuptools"]
 
 [project]
-name = "nblyzer_MDCS"
+name = "nblyzer_FL"
 version = "0.0.1"
 authors = [
-  { name="Pavle Subotic", email="pavlesubotic@microsoft.com" },
-  { name="Jana Kovacevic", email="pavlesubotic@microsoft.com" },
+  { name="Pavle Subotic", email="psubotic@gmail.com" },
   { name="Filip Drobnjakovic", email="drobnjakovicfilip@gmail.com" },
 ]
 description = "Static analyzer from data science Notebooks"

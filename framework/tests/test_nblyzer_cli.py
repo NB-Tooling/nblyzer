@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 import unittest
 from nblyzer.src.nblyzer_cli import *
 from nblyzer.src.resource_utils.utils import TEST_RES_PATH

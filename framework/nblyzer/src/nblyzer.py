@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from collections import defaultdict
 from .analyses.dataleak_analysis import DataLeakAnalysis
 from .analyses.stale_cell_analysis import StaleCellAnalysis

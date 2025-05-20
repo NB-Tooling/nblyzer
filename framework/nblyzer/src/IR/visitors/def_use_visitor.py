@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 import beniget
 from beniget.beniget import DeclarationStep
 

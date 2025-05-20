@@ -1,6 +1,3 @@
-# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT license.
-
 from .runner.analysis_results import Result, PathResult, ErrorInfo, ErrorType
 from .runner.analyses_utils import get_all_unbound_vars
 from .analysis import Analysis

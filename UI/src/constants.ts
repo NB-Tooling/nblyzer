@@ -1,6 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
-
 export const DATA_LEAK = "Data Leak Analysis";
 export const STALE = "Stale Cells Analysis";
 export const FRESH = "Fresh Cells Analysis";
